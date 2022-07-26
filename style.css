@@ -1,0 +1,19 @@
+.btn-success:hover{
+    background-color: palevioletred;
+}
+
+canvas{
+    border: 5px ridge darkgray;
+
+}
+
+.btn-info{
+    font-size: 20px;
+    color:white;
+    
+}
+
+body {
+   background-image:url("lipstick-seamless-pattern-600w-177886439.webp");
+   background-size: cover;
+}
